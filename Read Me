@@ -1,2 +1,0 @@
-Vaccination Drives Database Management System aims to provide efficient management system for the vaccination drives and other disease control drives.In this project, we made SRS with all the relevant data that includes details about users, vaccine centers, employees & managers of respective vaccine centers, etc. Then we made ER model and corresponding Relational model and then
-Normalized it.The database system is based on PostgreSQL.
